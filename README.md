@@ -14,7 +14,7 @@
 - Discrete Graphics Card: Nvidia(R) Geforce GTX 1050 Ti
 - Wireless Network & Bluetooth Card: Intel(R) Wireless-AC 9560AC 160 MHZ
 - Sound Card: Realtek ALC 265
-- Port: USB 3*Gen3, 1\*Type-C, 1\*Rj45,1*mini DP, 1*HDMI
+- Port: USB 3\*Gen3, 1\*Type-C, 1\*Rj45,1\*mini DP, 1\*HDMI
 
 **What Works**
 
